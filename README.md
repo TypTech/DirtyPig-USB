@@ -62,3 +62,5 @@ Dirty Pig steht unter der MIT-Lizenz. Details findest du in der Datei `LICENSE`.
 ## 📬 Kontakt
 Hast du Fragen oder Verbesserungsvorschläge? Erstelle ein Issue oder reiche einen Pull-Request ein! 😊
 
+## Made with 💓 by TypTech - DirtyPig USB
+
