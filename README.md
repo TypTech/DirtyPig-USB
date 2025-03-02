@@ -54,7 +54,7 @@ Dirty Pig ist ein leistungsfähiges Tool für automatisierte Skriptsteuerung und
 - **Automatisierte Anmeldung an Systemen** 🔐
 
 ## ⚠️ Sicherheitshinweis
-Dieses Tool ist für Sicherheitsforscher und Entwickler gedacht. Der Missbrauch für illegale Zwecke ist strengstens untersagt! ❌🚨
+Dieses Tool ist für Sicherheitsforscher und Entwickler gedacht. Die Entwickler haften für keinerlei Missachtungen dieser Warnung! ❌🚨
 
 ## 📜 Lizenz
 Dirty Pig steht unter der MIT-Lizenz. Details findest du in der Datei `LICENSE`.
